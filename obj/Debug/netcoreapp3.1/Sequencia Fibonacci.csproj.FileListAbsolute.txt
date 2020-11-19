@@ -1,0 +1,13 @@
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Sequencia Fibonacci\obj\Debug\netcoreapp3.1\Sequencia Fibonacci.csprojAssemblyReference.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Sequencia Fibonacci\obj\Debug\netcoreapp3.1\Sequencia Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Sequencia Fibonacci\obj\Debug\netcoreapp3.1\Sequencia Fibonacci.AssemblyInfo.cs
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Sequencia Fibonacci\obj\Debug\netcoreapp3.1\Sequencia Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Sequencia Fibonacci\bin\Debug\netcoreapp3.1\Sequencia Fibonacci.exe
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Sequencia Fibonacci\bin\Debug\netcoreapp3.1\Sequencia Fibonacci.deps.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Sequencia Fibonacci\bin\Debug\netcoreapp3.1\Sequencia Fibonacci.runtimeconfig.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Sequencia Fibonacci\bin\Debug\netcoreapp3.1\Sequencia Fibonacci.runtimeconfig.dev.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Sequencia Fibonacci\bin\Debug\netcoreapp3.1\Sequencia Fibonacci.dll
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Sequencia Fibonacci\bin\Debug\netcoreapp3.1\Sequencia Fibonacci.pdb
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Sequencia Fibonacci\obj\Debug\netcoreapp3.1\Sequencia Fibonacci.dll
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Sequencia Fibonacci\obj\Debug\netcoreapp3.1\Sequencia Fibonacci.pdb
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\Sequencia Fibonacci\obj\Debug\netcoreapp3.1\Sequencia Fibonacci.genruntimeconfig.cache
